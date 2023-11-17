@@ -1,0 +1,1 @@
+# python-slickdeals-frontpage-deals-scrapping
