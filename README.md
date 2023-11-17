@@ -1,4 +1,4 @@
-# Using Python for Slickdeals Frontpage Deals Scrapping into JSON format
+# Using Python to get Slickdeals Frontpage Deals into JSON format
 The goal of this scrapping python script is to get all Slickdeals frontpage hot deals and conver them into json format and create alerts and send notifications to your own Discord Channel, Social Media, etc.
 
 The script collects following data types:
